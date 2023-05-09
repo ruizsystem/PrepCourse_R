@@ -1,2 +1,2 @@
-# PrepCourse_R
-Este es el modulo II del prepCourse de Henry
+
+Este proyecto es una prueba de como clonar un repositorio en la nube a mi repositorio local.
